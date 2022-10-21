@@ -1,0 +1,2 @@
+Course: https://tcsglobal.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+Practise test: https://tcsglobal.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate/
