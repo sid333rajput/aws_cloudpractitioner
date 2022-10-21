@@ -1,2 +1,2 @@
 # aws_cloudpractitioner
-Study Material For AWS Cloud Practitioner Certification.
+Study Material For AWS Certification Exams.
