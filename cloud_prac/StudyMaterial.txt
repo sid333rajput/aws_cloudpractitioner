@@ -1,0 +1,2 @@
+Course: https://tcsglobal.udemy.com/course/aws-certified-cloud-practitioner-new/
+Practise Test: https://tcsglobal.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/
